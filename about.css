@@ -1,0 +1,13 @@
+*{
+    background-color: rgb(122, 168, 152);
+}
+.text{
+    color: white;
+   background-color: black;
+}
+.table{
+    margin-left: auto; margin-right: auto;
+}
+a{
+    text-decoration: none;
+}

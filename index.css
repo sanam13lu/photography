@@ -1,0 +1,24 @@
+body{ background-color: pink;
+    border-collapse:separate; 
+    border-spacing: 8px;
+  }
+
+
+.our-table{
+    width:1000px; margin-left: auto;margin-right: auto;
+    background-color: rgb(244, 243, 248);
+}
+.banner{
+  background-color: bisque;
+  height: 150px;
+}
+.footer{
+    text-align: center;
+}
+.text{ color: white;
+    background-color: black;
+}
+
+a{
+  text-decoration: none;
+}

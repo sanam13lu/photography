@@ -1,0 +1,15 @@
+*{
+    background-color: rgb(190, 171, 146);
+}
+.icon{
+    margin-right: auto;
+}
+.lable{
+    width:1000px; margin-left: auto;margin-right: auto;
+}
+#color{
+    width: 330;
+}
+a{
+    text-decoration: none;
+}
